@@ -1,4 +1,1 @@
-nginx:latest
-node:14
-golang:1.21
-python:3.11
+kibana:latest
