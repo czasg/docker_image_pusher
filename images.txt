@@ -1,1 +1,1 @@
-bitnami/redis:latest
+bitnami/prometheus:latest
