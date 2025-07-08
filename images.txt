@@ -1,1 +1,1 @@
-bitnami/jaeger:latest
+jaegertracing/all-in-one:latest
