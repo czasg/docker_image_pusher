@@ -1,1 +1,1 @@
-ghcr.io/aas-ee/open-web-search:latest
+node:18-alpine
